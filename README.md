@@ -16,9 +16,10 @@ POSTing to FOSS Website<br/>
 6. If the POST was success, it will show a message Updated contribution ($bug_id)<br/>
 
 7. Confirm the entry with the FOSS Website<br/>
+
 <h4>Report Bugs</h4>
 If you find some bugs, please do report at https://github.com/amfoss/contributionExtractor/issues<br/>
-<h4>Improve performance<h4>
+<h4>Improve performance</h4>
 
 You can improve the linear search time, by sorting your spreadsheet with Your Name and deleting all others. Please make sure that you do that on your local copy of the same<br/>
 <h4>Contact</h4>
