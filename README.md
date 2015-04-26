@@ -1,7 +1,7 @@
 # contributionExtractor
 Python script to extract contributions from FOSS contribution database and post to FOSS website ( foss.amrita.ac.in)
 
-# Usgae instructions
+# Usage instructions
 1. Create a local copy of the original <code>Contribution Database - FOSS@Amrita</code> in your Google Drive <br/>. Find more https://support.google.com/docs/answer/180897?hl=en
 2. Download required module - <code> gspread </code> by <code> sudo pip install gspread BeautifulSoup4 requests</code>
 2. Download the <code>getDetails.py</code> script and run it using  <code>$ python getDetails.py</code>
