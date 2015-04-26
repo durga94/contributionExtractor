@@ -7,7 +7,7 @@ Python script to extract contributions from FOSS contribution database and post 
 
 ## Authentication
 1. Give all required details as asked for. Please note to give your full gmail Email-id when asked for. The 'name of your copy of Contribution DB' is the name of the new spreadsheet you just created.
-If everything match, you will get a message  "SpreadSheet opened".
+If everything match, you will get a message <code>"SpreadSheet opened"</code>
 
 2. The program will do a linear scan, and list the contributions which it will come across
 POSTing to FOSS Website<br/>
